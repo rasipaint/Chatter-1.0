@@ -1,1 +1,2 @@
-# Chatter-1.0
+# Chatochondria
+Github Pages: https://rasipaint.github.io/chatochondria
